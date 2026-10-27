@@ -1,4 +1,4 @@
-name: 'Any branch: Rename directory'
+name: 'Any branch: Renames directory'
 
 on:
   workflow_dispatch:
